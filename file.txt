@@ -1,1 +1,4 @@
-line1\nline2
+line1\nline2line3
+line4
+line5
+line6
